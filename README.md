@@ -1,7 +1,7 @@
 Hi 👋 My name is Nutchapon Metmaolee.
 =====================================
 
-Backend Developer at Swift Dynamics Co., Ltd.
+Backend Developer
 ---------------------------------------------
 
 "I enjoy coding and learning new things related to software that can build upon what I already know or introduce me to areas I'm not yet familiar with."
