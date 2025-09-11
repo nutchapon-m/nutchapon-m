@@ -4,7 +4,7 @@ Hi 👋 My name is Nutchapon Metmaolee.
 Backend Developer
 ---------------------------------------------
 
-"I enjoy coding and learning new things related to software that can build upon what I already know or introduce me to areas I'm not yet familiar with."
+## "I want to code for somthing meaningful."
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [nutchapon.met1002@gmail.com](mailto:nutchapon.met1002@gmail.com)
