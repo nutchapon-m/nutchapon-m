@@ -1,7 +1,7 @@
 Hi 👋 My name is Nutchapon Metmaolee.
 =====================================
 
-Backend Developer
+Backend Developer (Golang)
 ---------------------------------------------
 
 ## "I want to code for somthing meaningful."
