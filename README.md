@@ -5,8 +5,13 @@ Software Engineer
 (Gopher, Pythonista)
 ---------------------------------------------
 
-## "I want to code for somthing meaningful."
+```go
+package main
 
+func main() {
+  fmt.Println("I want to code for somthing meaningful.")
+}
+```
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [nutchapon.met1002@gmail.com](mailto:nutchapon.met1002@gmail.com)
 
