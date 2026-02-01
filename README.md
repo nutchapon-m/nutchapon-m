@@ -10,6 +10,11 @@ Software Engineer
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [nutchapon.met1002@gmail.com](mailto:nutchapon.met1002@gmail.com)
 
+
+## Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/tall/655b901968ca60261357e191?variant=dark)](https://roadmap.sh)
+
 ### Skills
 
 
