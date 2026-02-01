@@ -1,7 +1,8 @@
-Hi 👋 My name is Nutchapon Metmaolee.
+Hi 👋 I am Nut.
 =====================================
 
-Backend Developer (Golang)
+Software Engineer
+(Gopher, Pythonista)
 ---------------------------------------------
 
 ## "I want to code for somthing meaningful."
